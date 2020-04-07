@@ -173,6 +173,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote People](https://remotepeople.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+  1. [Freelancewriting](https://www.freelancewriting.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [100Telecommutejobs](https://100telecommutejobs.com/telejobs/)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
